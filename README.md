@@ -1,0 +1,2 @@
+# fantomcoin
+dinero
